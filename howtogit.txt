@@ -1,0 +1,14 @@
+#git+vscode
+
+1.下载vscode+git。
+2.准备好github账户
+3.需要创建一个readme文件
+4.可以采用github上的代码初始化
+5.常用指令
+git remote -v
+git add remote xxx 地址
+git push origin main
+git branch
+git checkout branch
+git add .
+git commit -m '名称'
