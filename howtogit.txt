@@ -12,3 +12,4 @@ git branch
 git checkout branch
 git add .
 git commit -m '名称'
+6.借助vscode可以减少指令的使用
